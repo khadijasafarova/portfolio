@@ -1,2 +1,2 @@
-# portfolio
-All projects have been done by Khadija Safarova
+# Wordcloud data visualisation
+Azerbaijan Economical data have been visualised via Python
