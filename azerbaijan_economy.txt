@@ -1,6 +1,143 @@
+
+ 
+Wiki Loves Monuments: Photograph a monument, help Wikipedia and win!
+Learn more
+Economy of Azerbaijan
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Economy of Azerbaijan
+Bakü gece görünüşü.jpg
+Baku the financial capital of Azerbaijan
+Currency	1 Manat = 100 qəpik
+Fiscal year
+Calendar year
+Trade organisations
+CIS, ECO, GUAM, WTO (observer)
+Statistics
+Population	Increase 10,000,000 (2019)[1]
+GDP	
+Increase $45.418 billion (nominal, 2018 est.)[2]
+Increase $179.673 billion (PPP, 2018 est.)[2]
+GDP rank	
+84th (nominal, 2018)
+71st (PPP, 2018)
+GDP growth
+−3.1% (2016) 0.1% (2017e)
+1.4% (2018e) 3.3% (2019f)[3]
+GDP per capita
+Increase $4,569 (nominal, 2018 est.)[2]
+Increase $18,075 (PPP, 2018 est.)[2]
+GDP per capita rank
+103rd (nominal, 2018)
+74th (PPP, 2018)
+GDP by sector
+agriculture: 6.1%
+industry: 53.5%
+services: 40.4%
+(2017 est.)[4]
+Inflation (CPI)
+2.3% (2018 est.)[2]
+Population below poverty line
+4.9% (2015 est.)[4]
+Gini coefficient
+33.7 medium (2008)[4]
+Human Development Index
+Steady 0.757 high (2017)[5] (80th)
+0.681 IHDI (2017)[6]
+Labour force
+Increase 5,058,498 (2018)[7]
+Labour force by occupation
+agriculture: 37%
+industry: 14.3%
+services: 48.9%
+(2014)[4]
+Unemployment	Steady 5% (2017 est.)[4]
+Main industries
+petroleum and natural gas, petroleum products, oilfield equipment; steel, iron ore, cement; chemicals; petrochemicals; textiles; machinery; cotton; foodstuffs
+Ease-of-doing-business rank
+Increase 25th (2019)[8]
+External
+Exports	Increase $15.15 billion (2017 est.)[4]
+Export goods
+oil and gas roughly 90%, machinery, foodstuffs, cotton
+Main export partners
+ Italy 23.2%
+ Turkey 13.6%
+ Israel 6.1%
+ Russia 5.4%
+ Germany 5%
+ Czech Republic 4.6%
+ Georgia 4.3%
+(2017)[4]
+Imports	Increase $9.037 billion (2017 est.)[4]
+Import goods
+machinery and equipment, foodstuffs, metals, chemicals
+Main import partners
+ Russia 17.7%
+ Turkey 14.8%
+ China 9.9%
+ United States 8.3%
+ Ukraine 5.3%
+ Germany 5.1%
+(2017)[4]
+FDI stock
+Increase $79.53 billion (31 December 2017 est.)[4]
+Increase Abroad: $19.6 billion (31 December 2017 est.)[4]
+Current account
+Increase $1.685 billion (2017 est.)[4]
+Gross external debt
+Negative increase $17.41 billion (31 December 2017 est.)[4]
+Public finances
+Public debt
+Negative increase 54.1% of GDP (2017 est.)[4]
+Budget balance
+−1.6% (of GDP) (2017 est.)[4]
+Revenues	9.556 billion (2017 est.)[4]
+Expenses	10.22 billion (2017 est.)[4]
+Credit rating
+Fitch:[9]
+BBB-
+Outlook: Stable
+Moody's:[10]
+Ba1
+Outlook: Stable
+Standard & Poor's:[11]
+BB+
+AAA (T&C Assessment)
+Outlook:[12] Stable
+Foreign reserves
+Decrease $6.681 billion (31 December 2017 est.)[4]
+Main data source: CIA World Fact Book 
+All values, unless otherwise stated, are in US dollars.
 Azerbaijan has an economy that has completed its post-Soviet transition into a major oil based economy (with the completion of the Baku-Tbilisi-Ceyhan Pipeline), from one where the state played the major role. The transition to oil production led to remarkable growth figures as projects came online; reaching 26.4% in 2005 (second highest GDP growth in the world in 2005 only to Equatorial Guinea) and 34.6% in 2006 (world highest) before subsiding to 10.8% and 9.3% in 2008 and 2009 respectively.[13] The real GDP growth rate for 2011 was expected at 3.7% but had dropped to 0.1%.[14] Large oil reserves are a major contributor to the economy. The national currency, the Azerbaijani manat, was stable in 2000, depreciating 3.8% against the dollar. The budget deficit equaled 1.3% of GDP in 2000.
 
-Progress on economic reform has generally lagged behind macroeconomic stabilization. The government has undertaken regulatory reforms in some areas, including substantial opening of trade policy, but inefficient public administration in which commercial and regulatory interests are co-mingled limit the impact of these reforms.[15] The government has largely completed privatization of agricultural lands and small and medium-sized enterprises. In August 2000, the government launched a second-stage privatization program, in which many large state enterprises will be privatized. Since 2001, the economic activity in the country is regulated by the Ministry of Economic Development of Azerbaijan Republic.Economic history of Azerbaijan
+Progress on economic reform has generally lagged behind macroeconomic stabilization. The government has undertaken regulatory reforms in some areas, including substantial opening of trade policy, but inefficient public administration in which commercial and regulatory interests are co-mingled limit the impact of these reforms.[15] The government has largely completed privatization of agricultural lands and small and medium-sized enterprises. In August 2000, the government launched a second-stage privatization program, in which many large state enterprises will be privatized. Since 2001, the economic activity in the country is regulated by the Ministry of Economic Development of Azerbaijan Republic.
+
+
+Contents
+1	Economic history of Azerbaijan
+1.1	Modern era
+1.2	Republic era
+2	Macro-economic trend
+3	Sectors of the economy
+3.1	Agriculture
+3.2	Manufacturing
+3.3	Services
+3.3.1	Financial and business services
+3.3.2	Telecommunications
+3.3.3	Tourism
+4	Currency system
+5	Infrastructure
+5.1	Energy
+5.2	Transportation
+5.3	Regulation
+6	Business environment
+7	Other economic indicators
+8	See also
+9	References
+10	Further reading
+11	External links
+Economic history of Azerbaijan
 Modern era
 Through the Soviet period, Azerbaijan had always been less developed industrially than Armenia and Georgia, two neighboring Transcaucasia countries - but also less diversified, as a result of slow investment in non-oil sector. With a history of industrial development of more than 100 years, Azerbaijan proved to be a leading nation in Southern Caucasus throughout the turmoil of Soviet Union collapse in early 1990s until nowadays.
 
@@ -15,7 +152,7 @@ In 1992, Azerbaijan became member of the Economic Cooperation Organization.[18] 
 Graphical depiction of Azerbaijan Product's product exports (2009).
 Azerbaijan has concluded 21 production-sharing agreements with various oil companies. An export pipeline that transports Caspian oil to the Mediterranean from Baku through Tbilisi, Georgia to Ceyhan, Turkey (the Baku-Tbilisi-Ceyhan Pipeline) became operational in 2006. The pipeline is expected to generate as much as $160 billion in revenues for the country over the next 30 years. The recent high price of oil is highly beneficial to Azerbaijan's economy as the nation is in the midst of an oil boom. Eastern Caspian producers in Kazakhstan also have expressed interest in accessing this pipeline to transport a portion of their production.
 
-In 2010, Azerbaijan entered into the top eight biggest oil suppliers to EU countries with ˆ9.46 billion.[20] In 2011, the amount of foreign investments in Azerbaijan was $20 billion, a 61% increase from 2010. According to Minister of Economic Development of Azerbaijan, Shahin Mustafayev, in 2011, "$15.7 billion was invested in the non-oil sector, while the rest - in the oil sector."[21]
+In 2010, Azerbaijan entered into the top eight biggest oil suppliers to EU countries with €9.46 billion.[20] In 2011, the amount of foreign investments in Azerbaijan was $20 billion, a 61% increase from 2010. According to Minister of Economic Development of Azerbaijan, Shahin Mustafayev, in 2011, "$15.7 billion was invested in the non-oil sector, while the rest - in the oil sector."[21]
 
 
 Azerbaijani exports in 2006
@@ -43,7 +180,7 @@ GDP in $
 GDP per capita in $
 (PPP)	3,658	2,610	3,781	7,252	9,927	12,619	14,046	15,231	15,995	15,861	16,271	17,277	17,824	17,915	17,378	17,492
 GDP growth
-(real)	?27.4 %	?13.0 %	6.2 %	28.0 %	34.5 %	25.5 %	10.6 %	9.4 %	4.6 %	?1.6 %	2.1 %	5.9 %	2.7 %	0.6 %	?3.1 %	0.1 %
+(real)	−27.4 %	−13.0 %	6.2 %	28.0 %	34.5 %	25.5 %	10.6 %	9.4 %	4.6 %	−1.6 %	2.1 %	5.9 %	2.7 %	0.6 %	−3.1 %	0.1 %
 Inflation
 (in Percent)	1,129.7 %	411.8 %	1.8 %	9.6 %	8.2 %	16.7 %	20.8 %	1.5 %	5.7 %	7.8 %	1.1 %	2.5 %	1.5 %	4.1 %	12.6 %	13.0 %
 Government debt
@@ -55,7 +192,7 @@ For more than a century the backbone of the Azerbaijani economy has been petrole
 Sectors of the economy
 Agriculture
 Main article: Agriculture in Azerbaijan
-Azerbaijan has the largest agricultural basin in the region. About 54,9 percent of Azerbaijan is agricultural lands. At the beginning of 2007 there were 4,755,100 hectares of utilized agricultural area.[30] In the same year the total wood resources counted 136 million m?.[30] Azerbaijan's agricultural scientific research institutes are focused on meadows and pastures, horticulture and subtropical crops, leaf vegetables, viticulture and wine-making, cotton growing and medicinal plants.[31] In some lands it is profitable to grow grain, potatoes, sugar beets, cotton and tobacco. Livestock, dairy products, and wine and spirits are also important farm products. The Caspian fishing industry is concentrated on the dwindling stocks of sturgeon and beluga.
+Azerbaijan has the largest agricultural basin in the region. About 54,9 percent of Azerbaijan is agricultural lands. At the beginning of 2007 there were 4,755,100 hectares of utilized agricultural area.[30] In the same year the total wood resources counted 136 million m³.[30] Azerbaijan's agricultural scientific research institutes are focused on meadows and pastures, horticulture and subtropical crops, leaf vegetables, viticulture and wine-making, cotton growing and medicinal plants.[31] In some lands it is profitable to grow grain, potatoes, sugar beets, cotton and tobacco. Livestock, dairy products, and wine and spirits are also important farm products. The Caspian fishing industry is concentrated on the dwindling stocks of sturgeon and beluga.
 
 Some portions of most products that were previously imported from abroad have begun to be produced locally (among them are Coca-Cola by Coca-Cola Bottlers LTD, beer by Baki-Kastel, parquet by Nehir and oil pipes by EUPEC Pipe Coating Azerbaijan).[32]
 
@@ -66,7 +203,7 @@ Manufacturing
 Marauder (Mine Protected Vehicle) is manufactured in Azerbaijan.
 In 2007, mining and hydrocarbon industries accounted for well over 95 per cent of the Azerbaijani economy. Diversification of the economy into manufacturing industries remain a long-term issue.[34]
 
-As of late 2000s, the defense industry of Azerbaijan has emerged as an autonomous entity with a growing defense production capability. The ministry is cooperating with the defense sectors of Ukraine, Belarus and Pakistan.[35] Along with other contracts, Azerbaijani defence industries and Turkish companies, Azerbaijan will produce 40mm revolver grenade launchers, 107mm and 122mm MLRS systems, Cobra 4?4 vehicles and joint modernization of BTR vehicles in Baku.[36][37][38][39]
+As of late 2000s, the defense industry of Azerbaijan has emerged as an autonomous entity with a growing defense production capability. The ministry is cooperating with the defense sectors of Ukraine, Belarus and Pakistan.[35] Along with other contracts, Azerbaijani defence industries and Turkish companies, Azerbaijan will produce 40mm revolver grenade launchers, 107mm and 122mm MLRS systems, Cobra 4×4 vehicles and joint modernization of BTR vehicles in Baku.[36][37][38][39]
 
 Services
 Financial and business services
@@ -200,3 +337,92 @@ Tourism in Azerbaijan
 Baku
 Military of Azerbaijan
 Judiciary of Azerbaijan
+References
+ "Azərbaycan əhalisinin sayı 10 milyon nəfərə çatıb" (in Azerbaijani). The New Azerbaijan Party. 6 April 2019.
+ "World Economic Outlook Database, April 2019". IMF.org. International Monetary Fund. Retrieved 16 August 2019.
+ "Global Economic Prospects, June 2019: Heightened Tensions, Subdued Investment. p. 101" (PDF). openknowledge.worldbank.org. World Bank. Retrieved 16 August 2019.
+ "The World Factbook". CIA.gov. Central Intelligence Agency. Retrieved 16 August 2019.
+ "Human Development Index 2018 Statistical Update". hdr.undp.org. United Nations Development Programme. Retrieved 16 August 2019.
+ "Inequality-adjusted Human Development Index". hdr.undp.org. United Nations Development Programme. Retrieved 16 August 2019.
+ "Labor force, total". data.worldbank.org. World Bank. Retrieved 16 August 2019.
+ "Ease of Doing Business in Azerbaijan". Doingbusiness.org. Retrieved 25 January 2017.
+ "Azerbaijan at BBB- according to Fitch Ratings" (in Turkish). London. 27 January 2012. Archived from the original on 31 December 2013.
+ "Moody's changes outlook on Azerbaijan's sovereign ratings to positive from stable".
+ "Sovereigns Ratings List".
+ "Azerbaijan Rating Stable". London. 13 January 2012. Archived from the original on 30 January 2015. Retrieved 1 April 2012.
+ "Today.Az - GDP growth makes 3.4% in Azerbaijan in 2009". Retrieved 3 March 2015.
+ "Background Note: Azerbaijan". United States Department of State. 23 March 2012.
+ "Azerbaijan on CIA's Worldfactbook". www.cia.gov. Retrieved 19 August 2014.
+ Azerbaijani answer to oil glut: Bathe in it - Asia - Pacific - International Herald Tribune Archived 28 November 2006 at the Wayback Machine
+ Zhalko-Tytarenko, Andrew. "Iran's other side: the South Caucasus". diplomatonline.com. Retrieved 14 August 2014.
+ "Brief Introduction of ECO's history". www.ecosecretariat.org. Archived from the original on 22 October 2013. Retrieved 14 August 2014.
+ "Azerbaijan Transportation". NationsEncyclopedia.com. Retrieved 24 May 2007.
+ "Today.Az - Azerbaijan among top 8 biggest oil suppliers to EU countries". Retrieved 3 March 2015.
+ Lada Yevgrashina (17 January 2012). "Azerbaijan investment up 61 pct to $20 bln in 2011". Reuters. Retrieved 17 January 2012.
+ "Is Azerbaijan the new "Caucasus tiger"?". www.agccommunication.eu. Retrieved 14 August 2014.
+ Safarov, Fuad. "Muhammad Asif Noor: "Tiger of Caucasus" pose as an opportunity for Pakistan to get involved in mutually beneficial cooperative engagements"". vestnikkavkaza.net. Retrieved 14 August 2014.
+ Afag, Aliyeva. Известное СМИ Германии: Азербайджан - "тигр Кавказа". aze.az (in Russian). Retrieved 14 August 2014.
+ "The World According to GAWC 2012". GAWC. Retrieved 7 April 2014.
+ "Turkey, Azerbaijan intend to boost mutual trade to $15 billion by 2023". 15 January 2015. Archived from the original on 18 January 2015. Retrieved 16 January 2015.
+ estimated Archived 2017-01-13 at the Wayback Machine by the International Monetary Fund
+ "Report for Selected Countries and Subjects". Retrieved 28 August 2018.
+ Azerbaijan: Energy profile Archived 4 October 2008 at the Wayback Machine (Enerpub, 13 December 2007)
+ "Natural resources". The State Statistical Committee of the Republic of Azerbaijan. Archived from the original on 10 June 2007. Retrieved 2007-05-26.
+ "Azerbaijan: Status of Database". Central Asia and Caucasus Institute. Archived from the original on 20 March 2007. Retrieved 28 May 2007.
+ "Industry" (PDF). Statistical Yearbook of Azerbaijan 2004. Archived from the original (PDF) on 2 February 2007. Retrieved 2007-05-26.
+ https://ec.europa.eu/neighbourhood-enlargement/news_corner/news/eu4lankaran-%E2%80%93-new-eu-action-boost-rural-and-regional-competitiveness-azerbaijan_en
+ Snow, Nick. "Azerbaijan looks beyond energy successes for economic growth". www.ogj.com. Oil & Gas Journal. Retrieved 14 August 2014.
+ "Azerbaijan: Baku Signals New Determination For Defense Reform". RadioFreeEurope/RadioLiberty. Retrieved 3 March 2015.
+ "News.Az - Azerbaijan, Turkey to produce revolver grenade launchers". Retrieved 3 March 2015.
+ Azerbaijan’s Ministry of Defense Industry plans to assume several projects on technical modernization of Armed Forces Archived 2 April 2012 at the Wayback Machine
+ "News.Az - Azerbaijan, Turkey sign contract on joint rocket production". Retrieved 3 March 2015.
+ Azerbaijani Defense Industry Ministry conducts negotiations with Turkish "Otokar" Company on production of armored vehicles Archived 25 March 2012 at the Wayback Machine
+ "Azerbaijan Banking System: An Overview July 2007" (PDF). Archived from the original (PDF) on 8 December 2011. Retrieved July 2007. Check date values in: |accessdate= (help)
+ "Azerbaijan – General Information". Heydar Aliyev Foundation. Retrieved 22 May 2007.
+ "Azerbaijan aims for hi-tech state". Euronews. Retrieved 19 December 2010.
+ "Azerbaijan is in TOP 10 of countries showing dynamic growth in Internet and mobile communications penetration". bakutel.az. Archived from the original on 7 May 2013. Retrieved 15 April 2013.
+ CIA.gov, CIA World Factbook Telephones – main lines in use, Azerbaijan 1,397,000 main lines
+ CIA.gov, CIA World Factbook Internet users, Azerbaijan Internet users: 1,485,000.
+ "Rapid Tourism Assessment for the Azerbaijan Tourism Sector Development Program - Organization for Security and Cooperation in Europe (OSCE)". Retrieved 9 September 2013.
+ Azərbaycan Qarabağın turizm imkanlarını təbliğ edir (in Azerbaijani)
+ Ismayilov, Rovshan. "Azerbaijan: Baku Boom Has Yet to Hit Regions". EurasiaNet. Archived from the original on 19 August 2007. Retrieved 12 August 2007.
+ Cree, Richard. "Azerbaijan on Director magazine". www.director.co.uk. Archived from the original on 2 July 2014. Retrieved 14 August 2014.
+ "Ministry of Culture and Tourism of Azerbaijan: Goals". Tourism.az. 6 February 2004. Archived from the original on 28 November 2010. Retrieved 4 January 2011.
+ "Azerbaijan – General Information". Heydar Aliyev Foundation. Archived from the original on 28 May 2007. Retrieved 2007-05-22.
+ "Azerbaijan – General Information". Heydar Aliyev Foundation. Archived from the original on 5 May 2007. Retrieved 2007-05-22.
+ "Azerbaijan: Economy". globalEDGE. Archived from the original on 12 October 2007. Retrieved 29 May 2007.
+ "SOCAR plans to completed full gasification of Azerbaijan only by 2021". Azerbaijan Business Center. Retrieved 6 June 2010.
+ Ziyadov, Taleh. "The New Silk Roads" (PDF). Central Asia-Caucasus Institute Silk Road Studies Program. Archived from the original (PDF) on 25 July 2013.
+ Zeyno Baran (2005). "The Baku-Tbilisi-Ceyhan Pipeline: Implications for Turkey" (PDF). The Baku-Tbilisi-Ceyhan Pipeline: Oil Window to the West. The Central Asia-Caucasus Institute, Silk Road Studies Program: 103–118. Archived from the original (PDF) on 27 February 2008. Retrieved 30 December 2007.
+ "SCP Commissioning Commences" (Press release). BP. 1 June 2006. Archived from the original on 11 October 2007. Retrieved 4 June 2008.
+ "List of Contracting Parties to the Convention on Road Traffic" (PDF). UN Economic Commission for Europe. Archived from the original (PDF) on 14 August 2011. Retrieved 2010-01-23.
+ World Bank Group - Doing Business (2013). Doing Business 2014. pp. 60–65. ISBN 978-0-8213-9983-5.
+ "2010-2012 State Program on Development of Communication and Information Technologies in the Republic of Azerbaijan (Electronic Azerbaijan)". president.az (in Azerbaijani). Retrieved 6 October 2017.
+ "Service providers". www.e-gov.az. Retrieved 6 October 2017.
+ "Azərbaycan Respublikasının Prezidenti". archive.president.az. Retrieved 4 October 2017.
+ "Order of the President of Azerbaijan on "Measures to ensure organization of entrepreneurship activities on the principle of single window" (25 October 2007)". e-qanun.az. Archived from the original on 4 October 2017. Retrieved 4 October 2017.
+ "Single-window: Decree of the President of Azerbaijan (11 November 2008)". customs.gov.az (in Azerbaijani). Retrieved 4 October 2017.
+ "Single-window: About the establishment of the commission". customs.gov.az (in Azerbaijani). Archived from the original on 4 October 2017. Retrieved 4 October 2017.
+ "Single-window: About the technological scheme of issuing permits". customs.gov.az (in Azerbaijani). Retrieved 4 October 2017.
+ "Decree of the President of Azerbaijan on Implementation of the "single window" principle in the management of migration processes" (PDF). mfa.gov.az. Retrieved 4 October 2017.
+ Jafarova, Aynur (1 October 2014). "Azerbaijan leading country in CIS for foreign investment per capita". AzerNews. Retrieved 1 October 2014.
+ World Bank Group. "Top 10 reformers from Doing Business 2009". Retrieved 28 September 2008.
+ World Bank (2018). Doing Business 2019 (PDF). World Bank Publications. pp. 5, 11, 13. ISBN 1464813264.
+ "Doing Business 2019: A Year of Record Reforms, Rising Influence". World Bank. Retrieved 2 November 2018.
+ RICHARD HIAULT. "Vie des affaires : la France perd encore du terrain - Les Echos". www.lesechos.fr (in French). Retrieved 2 November 2018.
+ World Bank (2017). Doing Business 2018 (PDF). World Bank Publications. p. 4. ISBN 1464811474.
+ http://www.cbar.az/ Central Bank of the Azerbaijan Republic, accessed 24 July 2015
+Further reading
+Habibov, Nazim: "Poverty in Azerbaijan" in the Caucsus Analytical Digest No. 34
+Küpeli, Ismail (2013). Aserbaidschan - ein autoritärer Rentierstaat? Politik und Ökonomie unter dem Aliyev-Regime. Göttingen: Optimus Verlag. ISBN 978-3-86376-042-7.
+External links
+Azerbaijan Economic Development at Curlie
+Hübner, Gerald: "As If Nothing Happened? How Azerbaijan’s Economy Manages to Sail Through Stormy Weather" in the Caucasus Analytical Digest No. 18
+vte
+Azerbaijan articles
+vte
+Economy of Asia
+vte
+Economy of Europe
+Categories: Economy of AzerbaijanEconomies of Europe
+Navigation menu
